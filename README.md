@@ -20,6 +20,8 @@ These are direct transcriptions of songs I like, aiming to be as close to the or
 
 ## Cover Compositions
 
+These are my own arrangements for songs I like, which are sort of "remixes" of the songs played on instruments that are not part of the original song.
+
 - **やさしいな** - Bocchi The Rock OST vol.2 (Glocken Cover) [🔗](./2023-03-11%20やさしいな/)
 - **Marble Machine** by Wintergatan (Percussion Cover) [🔗](./2023-05-05%20MarbleMachine/)
 
