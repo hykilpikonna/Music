@@ -7,7 +7,11 @@ This is a place where I keep my music-related project files, like sheet music tr
 ## Sheet Music Transcriptions
 
 - [バビロン by ハンバートハンバート (Vocal)](./2025-04-24%20バビロン/)
+
+## Cover Compositions
+
 - [やさしいな - Bocchi The Rock OST vol.2 (Glocken Cover)](./2023-03-11%20やさしいな/)
+- [*Marble Machine* - Wintergatan (Percussion Cover)](./2023-05-05%20MarbleMachine/)
 
 ## License: [CC By-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
