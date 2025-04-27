@@ -6,14 +6,19 @@ This is a place where I keep my music-related project files, like sheet music tr
 
 (this repo exists mostly because MuseScore platform is a very greedy and wants to profit from user content... at least you don't need to pay for a subscription to download my stuff here!)
 
+In the index below, you can click on the 🔗 link icons to find each project. Or other icons to go to specific links.
+
 ## Sheet Music Transcriptions
 
-- [バビロン by ハンバートハンバート (Vocal)](./2025-04-24%20バビロン/)
+These are direct transcriptions of songs I like, aiming to be as close to the original as possible. (Please let me know if you find any mistakes!)
+
+- バビロン by ハンバートハンバート (Vocal) [🔗](./2025-04-24%20バビロン/)
+- *Dream* by Rabpit & ICE - Cytus OST (Piano) [🔗](./2019-01-05%20Dream/) [♭](https://flat.io/score/5c310afd32e13b0b40dc67b5-dream)
 
 ## Cover Compositions
 
-- [やさしいな - Bocchi The Rock OST vol.2 (Glocken Cover)](./2023-03-11%20やさしいな/)
-- [*Marble Machine* - Wintergatan (Percussion Cover)](./2023-05-05%20MarbleMachine/)
+- やさしいな - Bocchi The Rock OST vol.2 (Glocken Cover) [🔗](./2023-03-11%20やさしいな/)
+- *Marble Machine* by Wintergatan (Percussion Cover) [🔗](./2023-05-05%20MarbleMachine/)
 
 ## License: [CC By-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
