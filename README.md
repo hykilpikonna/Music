@@ -4,6 +4,8 @@ Welcome! :3
 
 This is a place where I keep my music-related project files, like sheet music transcriptions, midis, and other stuff. All of them are free to use, but please link this repo if you use them publicly!
 
+(this repo exists mostly because MuseScore platform is a very greedy and wants to profit from user content... at least you don't need to pay for a subscription to download my stuff here!)
+
 ## Sheet Music Transcriptions
 
 - [バビロン by ハンバートハンバート (Vocal)](./2025-04-24%20バビロン/)
