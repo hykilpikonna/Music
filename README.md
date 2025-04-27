@@ -13,7 +13,7 @@ In the index below, you can click on the 🔗 link icons to find each project. O
 These are direct transcriptions of songs I like, aiming to be as close to the original as possible. (Please let me know if you find any mistakes!)
 
 - バビロン by ハンバートハンバート (Vocal) [🔗](./2025-04-24%20バビロン/)
-- *Dream* by Rabpit & ICE - Cytus OST (Piano) [🔗](./2019-01-05%20Dream/) [♭](https://flat.io/score/5c310afd32e13b0b40dc67b5-dream)
+- *Dream* by Rabpit & ICE - Cytus OST (Piano) [🔗](./2019-01-05%20Dream/) / [flat.io](https://flat.io/score/5c310afd32e13b0b40dc67b5-dream)
 
 ## Cover Compositions
 
