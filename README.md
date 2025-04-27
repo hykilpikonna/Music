@@ -13,6 +13,7 @@ In the index below, you can click on the 🔗 link icons to find each project.
 These are direct transcriptions of songs I like, aiming to be as close to the original as possible. (Please let me know if you find any mistakes!)
 
 - **バビロン** by ハンバートハンバート (Vocal) [🔗](./2025-04-24%20バビロン/)
+- **Rubia** by 周深 & Oskar Roman Jezior - 崩坏3 OST (Piano, Vocal) [🔗](./2021-01-31%20Rubia/) / [flat.io](https://flat.io/score/601718095708dd25e610ab31-rubia)
 - **Forget me not** by 別野加奈 (Piano, incomplete) [🔗](./2020-09-27%20Forget%20me%20not/) / [flat.io](https://flat.io/score/5f709bea02af3b15be5ffda3-forget-me-not?sharingKey=2649ffd45fa0b1b1fbfb15a8f3f53c68787ef059835ff972bac3121b569694b94c9f4516cb7011d48d86c6b478a0e49df323e6b44f8e5b18244de90c86c045e3)
 - **Late Summer** by 周涵 (Piano) [🔗](./2020-04-09%20Late%20Summer/) / [flat.io](https://flat.io/score/5e8f64fd948d921746bdf9c4-late-summer)
 - **Chinkou** - Dreamfarer OST (Piano) [🔗](./2019-02-03%20Chinkou/) / [flat.io](https://flat.io/score/5c56f0daf41b2a2ab4b7cd95-chinkou)
