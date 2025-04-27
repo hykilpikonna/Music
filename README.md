@@ -14,6 +14,7 @@ These are direct transcriptions of songs I like, aiming to be as close to the or
 
 - **バビロン** by ハンバートハンバート (Vocal) [🔗](./2025-04-24%20バビロン/)
 - **Nier Fluquor** by Onoken - Deemo OST (Piano) [🔗](./2021-08-29%20Nier%20Fluquor/) / [flat.io](https://flat.io/score/612bd334ec0d9b001328dac0-nier-fluquor)
+- **Promise with you** by 小瀬村晶 & Shaylee Mary (Piano, Vocal) [🔗](./2021-02-28%20Promise%20with%20you/) / [flat.io](https://flat.io/score/603c25b4379d78405715741b-promise-with-you)
 - **Rubia** by 周深 & Oskar Roman Jezior - 崩坏3 OST (Piano, Vocal) [🔗](./2021-01-31%20Rubia/) / [flat.io](https://flat.io/score/601718095708dd25e610ab31-rubia)
 - **Forget me not** by 別野加奈 (Piano, incomplete) [🔗](./2020-09-27%20Forget%20me%20not/) / [flat.io](https://flat.io/score/5f709bea02af3b15be5ffda3-forget-me-not?sharingKey=2649ffd45fa0b1b1fbfb15a8f3f53c68787ef059835ff972bac3121b569694b94c9f4516cb7011d48d86c6b478a0e49df323e6b44f8e5b18244de90c86c045e3)
 - **Kanade** - One Week Friends OST (Piano, incomplete) [🔗](./2020-06-02%20Kanade/) / [flat.io](https://flat.io/score/5ed6ab1eff3b6e7a5ee67ada-kanade-unfinished?sharingKey=5dd23240acca4b0c55e559136f6e0f8ed58567552b8657cef0ce1d645aead418957dc78760a6ddfa9f80a46f01c1f4a140cc5beeecb57eb7a7b00b8b6aee679f)
