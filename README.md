@@ -24,6 +24,7 @@ These are direct transcriptions of songs I like, aiming to be as close to the or
 - **Mirror Night 镜夜** by V.K克 (Piano) [🔗](./2019-01-13%20Mirror%20Night/) / [flat.io](https://flat.io/score/5c3553cca2f46377a2221d85-mirror-night)
 - **Dream** by Rabpit & ICE - Cytus OST (Piano) [🔗](./2019-01-05%20Dream/) / [flat.io](https://flat.io/score/5c310afd32e13b0b40dc67b5-dream)
 - **Believe Me** by Takeshi Abo - Steins;Gate OST (Piano) [🔗](./2018-03-31%20Believe%20Me/) / [flat.io](https://flat.io/score/5abfce3ebad98f397a07308b-believe-me)
+- **Yubibana no Tate** by 芳贺敬太 - FGO OST (Piano) [🔗](./2018-01-31%20Yubibana%20no%20tate/) / [flat.io](https://flat.io/score/5a726d1672b4dc31453b3e50-yukibana-no-tate)
 
 ## Cover Compositions
 
