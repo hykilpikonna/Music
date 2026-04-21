@@ -12,8 +12,8 @@ In the index below, you can click on the 🔗 link icons to find each project.
 
 These are direct transcriptions of songs I like, aiming to be as close to the original as possible. (Please let me know if you find any mistakes!)
 
-- **BGM13** - SeaBed OST [🔗](./Projects/2026-04-14%20SeaBed-bgm13/) - Thanks to @sauricat
-- **星めぐりの歌** by 宮沢賢治 [🔗](./Projects/2025-10-01%20星めぐりの歌/) - Thanks to @Misaka13514
+- **BGM13** - SeaBed OST [🔗](./Projects/2026-04-14%20SeaBed-bgm13/) - Thanks to [@sauricat](https://github.com/sauricat)
+- **星めぐりの歌** by 宮沢賢治 [🔗](./Projects/2025-10-01%20星めぐりの歌/) - Thanks to [@Misaka13514](https://github.com/Misaka13514)
 - **バビロン** by ハンバートハンバート (Vocal) [🔗](./Projects/2025-04-24%20バビロン/)
 - **Grandma** - Nier Replicant OST (Piano, Vocal, incomplete) [🔗](./Projects/2022-07-27%20Grandma/) / [flat.io](https://flat.io/score/62e1b4037b93e20013a04b2e-grandma?sharingKey=d91af94dd89aaec8ec4fc38bcacd28acf9173d1cd90e80ca1de0a89c867b24c2944d285ac6e5c79c8b72acd066b6f17830228794a41a110ce37cbd606218b6f9)
 - **Nier Fluquor** by Onoken - Deemo OST (Piano) [🔗](./Projects/2021-08-29%20Nier%20Fluquor/) / [flat.io](https://flat.io/score/612bd334ec0d9b001328dac0-nier-fluquor)
